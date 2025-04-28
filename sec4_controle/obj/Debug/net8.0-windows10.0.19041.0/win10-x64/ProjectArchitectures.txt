@@ -1,0 +1,1 @@
+C:\Users\marco\Desktop\IIoT - Controle\sec4_controle\sec4_controle.csproj;x64

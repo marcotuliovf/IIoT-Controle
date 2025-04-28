@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:sec4_controle.Views"
+             x:Class="sec4_controle.LeadLagControlPage"
+             Title="Controle LEAD"
+             BackgroundColor="White"
+             NavigationPage.HasNavigationBar="False">
+
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="10">
+            <!-- Cabeçalho -->
+            <Label Text="Controlador LEAD" 
+                   FontSize="Title" 
+                   HorizontalOptions="Center" 
+                   TextColor="Black"/>
+
+            <!-- Entradas de parâmetros -->
+            <Frame BorderColor="Black" 
+                   CornerRadius="12" 
+                   Padding="15" 
+                   HasShadow="False" 
+                   BackgroundColor="#F5F5F5">
+                <VerticalStackLayout Spacing="4">
+                    <Label Text="Parâmetros de Controle LEAD" 
+                           TextColor="Black"
+                           FontAttributes="Bold" 
+                           HorizontalOptions="Center"/>
+
+                    <Label Text="Ângulo de Referência (º)"
+                           TextColor="Black"
+                           FontSize="14"/>
+                    <Entry x:Name="thetaRefEntry" 
+                           Keyboard="Numeric" 
+                           TextColor="Black" 
+                           FontSize="16"
+                           BackgroundColor="White"
+                           HeightRequest="40"/>
+
+                    <Label Text="Ganho K"
+                           TextColor="Black"
+                           FontSize="14"/>
+                    <Entry x:Name="kEntry" 
+                           Keyboard="Numeric" 
+                           TextColor="Black" 
+                           FontSize="16"
+                           BackgroundColor="White"
+                           HeightRequest="40"/>
+
+                    <Label Text="Parâmetro a"
+                           TextColor="Black"
+                           FontSize="14"/>
+                    <Entry x:Name="aEntry" 
+                           Keyboard="Numeric" 
+                           TextColor="Black" 
+                           FontSize="16"
+                           BackgroundColor="White"
+                           HeightRequest="40"/>
+
+                    <Label Text="Parâmetro b"
+                           TextColor="Black"
+                           FontSize="14"/>
+                    <Entry x:Name="bEntry" 
+                           Keyboard="Numeric" 
+                           TextColor="Black" 
+                           FontSize="16"
+                           BackgroundColor="White"
+                           HeightRequest="40"/>
+
+                    <Label Text="Atraso (ms)"
+                           TextColor="Black"
+                           FontSize="14"/>
+                    <Entry x:Name="tdEntry" 
+                           Keyboard="Numeric" 
+                           TextColor="Black" 
+                           FontSize="16"
+                           BackgroundColor="White"
+                           HeightRequest="40"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Restante do código permanece igual -->
+            <Frame BorderColor="Black" 
+                   CornerRadius="12" 
+                   Padding="15" 
+                   HasShadow="False" 
+                   BackgroundColor="#F5F5F5">
+                <VerticalStackLayout Spacing="10">
+                    <Button x:Name="connectButton" 
+                            Text="Conectar ao MQTT" 
+                            Clicked="OnConnectButtonClicked" 
+                            BackgroundColor="DarkOrange"
+                            TextColor="White"/>
+
+                    <Label x:Name="statusLabel" 
+                           Text="Status: Aguardando conexão..." 
+                           FontSize="16" 
+                           TextColor="Black"/>
+
+                    <Button x:Name="sendButton" 
+                            Text="Enviar Parâmetros" 
+                            IsEnabled="False" 
+                            Clicked="OnSendButtonClicked" 
+                            BackgroundColor="DarkOrange"
+                            TextColor="White"/>
+
+                    <Label x:Name="receivedDataLabel" 
+                            Text="Dados Recebidos: \nθ: - \nT: - \nu: -" 
+                            FontSize="16" 
+                            TextColor="Black"/>
+                </VerticalStackLayout>
+            </Frame>
+
+            <!-- Visualização do pêndulo -->
+            <Frame BorderColor="Black" 
+                   CornerRadius="12" 
+                   Padding="10" 
+                   HasShadow="False" 
+                   BackgroundColor="#F5F5F5">
+                <VerticalStackLayout>
+                    <views:PendulumClockView x:Name="pendulumClock"
+                                    HeightRequest="220"
+                                    WidthRequest="200"
+                                    HorizontalOptions="Center"
+                                    VerticalOptions="Center"/>
+
+                    <Label x:Name="angleLabel"
+                           Text="Ângulo: 0°"
+                           TextColor="Black"
+                           HorizontalOptions="Center"
+                           FontSize="Medium"
+                           Margin="0,10,0,0"/>
+                </VerticalStackLayout>
+            </Frame>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

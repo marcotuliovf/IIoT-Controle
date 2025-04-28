@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="sec4_controle.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:sec4_controle"
+    Shell.FlyoutBehavior="Disabled"
+    Title="sec4_controle">
+
+    <ShellContent
+        Title="Controle"
+        ContentTemplate="{DataTemplate local:MainTabbedPage}"
+        Route="MainTabbedPage" />
+    
+</Shell>

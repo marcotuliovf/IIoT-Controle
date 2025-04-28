@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:sec4_controle"
+            x:Class="sec4_controle.MainTabbedPage"
+            UnselectedTabColor="LightGrey"
+            SelectedTabColor="Black"
+            BarBackgroundColor="DarkGrey">
+
+    <TabbedPage.Children>
+
+        <NavigationPage Title="Proporcional">
+            <x:Arguments>
+                <local:ProportionalControlPage />
+            </x:Arguments>
+        </NavigationPage>
+        
+        <NavigationPage Title="LEAD">
+            <x:Arguments>
+                <local:LeadLagControlPage />
+            </x:Arguments>
+        </NavigationPage>
+
+        <!-- Adicione outras abas conforme necessário -->
+    </TabbedPage.Children>
+
+</TabbedPage>
