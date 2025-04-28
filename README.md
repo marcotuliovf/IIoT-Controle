@@ -16,7 +16,7 @@ Este projeto foi desenvolvido para a disciplina de Internet das Coisas Industria
 
 **Software:**
 - Aplicativo MAUI: Interface de controle (.NET 8)
-- Broker MQTT: Mosquitto em VM Google Cloud (`34.151.193.145:1883`)
+- Broker MQTT: Mosquitto em VM Google Cloud (`34.151.193.145:1883`) obs: será desativado futuramente
 - Firmware ESP32: Programado via Arduino IDE
   - Bibliotecas: `EWiFi.h`, `PubSubClient.h`, `Encoder.h`
 
