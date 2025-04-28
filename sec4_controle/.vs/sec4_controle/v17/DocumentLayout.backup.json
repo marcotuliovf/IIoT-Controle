@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\",
+  "WorkspaceRootPath": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot - controle\\sec4_controle\\leadlagcontrolpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot-controle\\sec4_controle\\mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:mqttservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot-controle\\sec4_controle\\proportionalcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:proportionalcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot-controle\\sec4_controle\\leadlagcontrolpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:leadlagcontrolpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot - controle\\sec4_controle\\proportionalcontrolpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot-controle\\sec4_controle\\proportionalcontrolpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:proportionalcontrolpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot - controle\\sec4_controle\\leadlagcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot-controle\\sec4_controle\\leadlagcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:leadlagcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot - controle\\sec4_controle\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot-controle\\sec4_controle\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|c:\\users\\marco\\desktop\\iiot - controle\\sec4_controle\\proportionalcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C0A1A1F-A7D4-43AE-B0DE-B23DA854FC8B}|sec4_controle.csproj|solutionrelative:proportionalcontrolpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,28 +34,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MqttService.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\MqttService.cs",
+              "RelativeDocumentMoniker": "MqttService.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\MqttService.cs",
+              "RelativeToolTip": "MqttService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T13:26:56.144Z",
+              "WhenOpened": "2025-04-28T18:07:50.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T13:26:56.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProportionalControlPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\ProportionalControlPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\ProportionalControlPage.xaml.cs",
               "RelativeDocumentMoniker": "ProportionalControlPage.xaml.cs",
-              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\ProportionalControlPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\ProportionalControlPage.xaml.cs",
               "RelativeToolTip": "ProportionalControlPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,38 +76,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LeadLagControlPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\LeadLagControlPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\LeadLagControlPage.xaml.cs",
               "RelativeDocumentMoniker": "LeadLagControlPage.xaml.cs",
-              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\LeadLagControlPage.xaml.cs",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\LeadLagControlPage.xaml.cs",
               "RelativeToolTip": "LeadLagControlPage.xaml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T16:20:31.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T16:20:31.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProportionalControlPage.xaml",
-              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\ProportionalControlPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\ProportionalControlPage.xaml",
               "RelativeDocumentMoniker": "ProportionalControlPage.xaml",
-              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\ProportionalControlPage.xaml",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\ProportionalControlPage.xaml",
               "RelativeToolTip": "ProportionalControlPage.xaml",
               "ViewState": "AgIAABIAAAAAAAAAAAAkwGYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-01T12:11:46.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T12:11:46.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LeadLagControlPage.xaml",
-              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\LeadLagControlPage.xaml",
+              "DocumentMoniker": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\LeadLagControlPage.xaml",
               "RelativeDocumentMoniker": "LeadLagControlPage.xaml",
-              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\LeadLagControlPage.xaml*",
-              "RelativeToolTip": "LeadLagControlPage.xaml*",
+              "ToolTip": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\LeadLagControlPage.xaml",
+              "RelativeToolTip": "LeadLagControlPage.xaml",
               "ViewState": "AgIAAEEAAAAAAAAAAAAIwE0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-01T12:03:02.921Z",

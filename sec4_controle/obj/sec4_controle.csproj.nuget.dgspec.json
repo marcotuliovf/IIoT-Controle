@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\sec4_controle.csproj": {}
+    "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\sec4_controle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\sec4_controle.csproj": {
+    "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\sec4_controle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\sec4_controle.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\sec4_controle.csproj",
         "projectName": "sec4_controle",
-        "projectPath": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\sec4_controle.csproj",
+        "projectPath": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\sec4_controle.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\IIoT - Controle\\sec4_controle\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Desktop\\IIoT-Controle\\sec4_controle\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
