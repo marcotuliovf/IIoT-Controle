@@ -59,8 +59,8 @@ Este projeto foi desenvolvido para a disciplina de Internet das Coisas Industria
 **Interface do Usuário:**
 
 - **Aba Proporcional:**
-  - Ângulo de Referência (θ)
-  - Ganho Proporcional (Kp)
+  - Parâmetros: θ, Kp
+  - Botões: Conectar ao Broker → Enviar Parâmetros
 
 - **Aba Lead-Lag:**
   - Parâmetros: θ, k, a, b, td
